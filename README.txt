@@ -10,12 +10,11 @@ Files:
 - preview-original.jpg: original poster image, shown on the redirect page
 
 Current destination:
-https://docs.google.com/forms/d/e/1FAIpQLSfLuhHCUuCGnI8DkSsVKUYDNq8meUH0xNBwy-fSqv5f7WOwQQ/viewform
+https://sites.google.com/view/phoenix-academy-class-drip-vit/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81
 
 Note:
-The DRIP VITAMIN Google Site was still unpublished when this package was updated.
-Use the Google Form as the temporary redirect target. After publishing the Google
-Site sales page, update the redirect URL in index.html.
+The DRIP VITAMIN share card redirects to the published Google Site sales page.
+The Google Site registration button should link to the Google Form.
 
 How to use:
 1. Upload this whole folder to Netlify, Vercel, GitHub Pages, or another static host.
