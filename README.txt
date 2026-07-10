@@ -9,8 +9,13 @@ Files:
 - preview-card.jpg: link preview image, 1200x630
 - preview-original.jpg: original poster image, shown on the redirect page
 
-Destination sale page:
-https://sites.google.com/view/phoenix-medical-aesthetic/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81
+Current destination:
+https://docs.google.com/forms/d/e/1FAIpQLSfLuhHCUuCGnI8DkSsVKUYDNq8meUH0xNBwy-fSqv5f7WOwQQ/viewform
+
+Note:
+The DRIP VITAMIN Google Site was still unpublished when this package was updated.
+Use the Google Form as the temporary redirect target. After publishing the Google
+Site sales page, update the redirect URL in index.html.
 
 How to use:
 1. Upload this whole folder to Netlify, Vercel, GitHub Pages, or another static host.
